@@ -3,7 +3,7 @@
  * Plugin Name: Polylang Custom Export
  * Description: Allows exporting posts, pages, and products in the current Polylang language as an XML file.
  * Version: 1.2
- * Author: Your Name
+ * Author: Femi
  * License: GPL2
  */
 
